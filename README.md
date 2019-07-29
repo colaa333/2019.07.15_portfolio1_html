@@ -1,4 +1,4 @@
 # trochos
 
-안녕하세요
+홈페이지
 https://colaa333.github.io/trochos/
